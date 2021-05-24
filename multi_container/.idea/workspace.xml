@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="630480b5-5a68-4b58-90a8-fab2ee299ab5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/frontend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile_COPY" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/nginx/default.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/hooks/useActions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/hooks/useTypedSelector.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/action-creators/auth.action-creator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/action-creators/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/action-creators/tasks.action-creator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/action-types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/actions/auth.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/actions/tasks.action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/reducers/auth.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/reducers/tasks.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/store/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/utils/axiosInstance.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.idea/fe-taskmgt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="mw6k0gzb" />
+  </component>
+  <component name="ProjectId" id="1sWfhJVDEWJpY7d7ULX6aS5HFyz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\docker_k8s course\compose\frontend" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="630480b5-5a68-4b58-90a8-fab2ee299ab5" name="Default Changelist" comment="" />
+      <created>1620993383931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620993383931</updated>
+      <workItem from="1620993385319" duration="5145000" />
+      <workItem from="1621346705075" duration="1347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
