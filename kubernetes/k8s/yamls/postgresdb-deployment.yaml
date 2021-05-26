@@ -30,10 +30,7 @@ spec:
                   name: postgres-secret
                   key: pg-root-username
             - name: POSTGRES_DB
-              valueFrom:
-                secretKeyRef:
-                  name: postgres-secret
-                  key: pg-db
+              value: taskmanagement
             - name: POSTGRES_PASSWORD
               valueFrom:
                 secretKeyRef:
