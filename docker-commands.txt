@@ -1,4 +1,4 @@
-#check if docker is installed and 
+#check if docker is installed 
 docker –version
 
 #get information about docker and system
@@ -10,11 +10,17 @@ docker pull ubuntu
 #list all docker images
 docker images
 
-#run docker image
+#create ubuntu container
 docker run -it ubuntu
+
 #create a file with cat
+cat>test.txt
+
 #view the file
+more test.txt
+
 #list contents of the folder
+ls -l
 
 #list all running containers
 docker ps
