@@ -2,10 +2,10 @@ import { TypeOrmModuleOptions } from '@nestjs/typeorm';
 import * as config from 'config';
 
 const dbConfig = config.get('db');
-console.log("dbConfig: ", dbConfig);
-// console.log(process.env.POSTGRES_USER);
-// console.log(process.env.POSTGRES_PASSWORD);
-// console.log(process.env.POSTGRES_DB);
+// console.log("dbConfig: ", dbConfig);
+console.log(process.env.POSTGRES_USER);
+console.log(process.env.POSTGRES_PASSWORD);
+console.log(process.env.POSTGRES_DB);
 
 export const typeOrmConfig: TypeOrmModuleOptions = {
   type: dbConfig.type,
