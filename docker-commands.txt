@@ -1,5 +1,5 @@
 #check if docker is installed 
-docker –version
+docker –-version
 
 #get information about docker and system
 docker info
